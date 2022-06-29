@@ -10,11 +10,36 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #032c79;
 }
 
 .right {
   right: 0;
+  background-color: #a37a07ed;
+}
+
+.irish {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  color: #07a33eed;
+  background-color: #0203008f;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: centers;
+}
+
+.down {
+  position: absolute;
+  top: 120%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: centers;
+}
+
+.left2 {
+  left: 25%;
 }
 
 .centered {
